@@ -1,0 +1,473 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST_Music_theory", "TEST_Music_theory\TEST_Music_theory.csproj", "{58E039B0-6D8A-412B-AE04-DA7BC8B7F60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jam Application", "Document_view_for_musicTheory\Jam Application.csproj", "{EF408AA6-EB16-4D47-8B75-357D598E4C28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E6266FE2-EDD2-44F2-93F9-4C13C8A5DF2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jam songs", "Jam songs", "{E93AA29B-6B12-4567-8259-F772749F6C08}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\jam songs\2-5-1.mp3 = Document_view_for_musicTheory\jam songs\2-5-1.mp3
+		Document_view_for_musicTheory\jam songs\Blues in C (120).mp3 = Document_view_for_musicTheory\jam songs\Blues in C (120).mp3
+		Document_view_for_musicTheory\jam songs\Blues in C (160).mp3 = Document_view_for_musicTheory\jam songs\Blues in C (160).mp3
+		Document_view_for_musicTheory\jam songs\Blues in C (90).mp3 = Document_view_for_musicTheory\jam songs\Blues in C (90).mp3
+		Document_view_for_musicTheory\jam songs\blues in G (bpm 120).mp3 = Document_view_for_musicTheory\jam songs\blues in G (bpm 120).mp3
+		Document_view_for_musicTheory\jam songs\blues in G (bpm 160).mp3 = Document_view_for_musicTheory\jam songs\blues in G (bpm 160).mp3
+		Document_view_for_musicTheory\jam songs\blues in G (bpm 90).mp3 = Document_view_for_musicTheory\jam songs\blues in G (bpm 90).mp3
+		Document_view_for_musicTheory\jam songs\CMaj7ForPratice.mp3 = Document_view_for_musicTheory\jam songs\CMaj7ForPratice.mp3
+		Document_view_for_musicTheory\jam songs\Dance (1-6-2-5 in F) 128 Bpm.mp3 = Document_view_for_musicTheory\jam songs\Dance (1-6-2-5 in F) 128 Bpm.mp3
+		Document_view_for_musicTheory\jam songs\Disco (1-2 in Eb) 110 Bpm.mp3 = Document_view_for_musicTheory\jam songs\Disco (1-2 in Eb) 110 Bpm.mp3
+		Document_view_for_musicTheory\jam songs\Funky on E9.mp3 = Document_view_for_musicTheory\jam songs\Funky on E9.mp3
+		Document_view_for_musicTheory\jam songs\Hip (bassLine A,Bb,F,E) 95 Bpm.mp3 = Document_view_for_musicTheory\jam songs\Hip (bassLine A,Bb,F,E) 95 Bpm.mp3
+		Document_view_for_musicTheory\jam songs\raggae 1-4.mp3 = Document_view_for_musicTheory\jam songs\raggae 1-4.mp3
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "neck diagram", "neck diagram", "{1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicTheory", "MusicTheory\MusicTheory.csproj", "{018358D0-2B07-4D9A-B7BA-712C84B6FD30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A", "A", "{7C89173A-296B-4550-A65F-0CE3ABC37FEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scale", "scale", "{03E90687-3682-47DE-B521-AB045318626B}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Bebop Major.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Bebop Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Japenese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Japenese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Japenese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Japenese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A (also G## or Bbb) Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A Melodic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A Minor Natural Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A Minor Natural Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Scale\A Pentatonic Minor.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mode", "mode", "{B2D7EBFC-D3B7-458B-8EED-29331CE1AAA2}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A (also G## or Bbb) Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A Aeolian .png = Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A Aeolian .png
+		Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\A\Mode\A Ionian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C", "C", "{518E5D97-9C86-4C4E-AF34-CCF5F35BD3F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{133D2D9D-1033-4744-9D97-3505D0F2DDEB}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or D##) Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or D##) Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or D##) Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or D##) Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or D##) Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or D##) Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or D##) Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or D##) Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or Dbb) Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or Dbb) Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or Dbb) Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or Dbb) Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or Dbb) Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (also B# or Dbb) Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (B# or Dbb) Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (B# or Dbb) Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (B# or Dbb) Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (B# or Dbb) Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (B# or Dbb) Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C (B# or Dbb) Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C Melodic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Scale\C Pentatonic Major.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{C17661BB-2E9A-4CFF-85CD-45C0771D5AB7}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (also B# or Dbb) Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (B# or Dbb) Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C (B# or Dbb) Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C Iolian.png = Document_view_for_musicTheory\Neck Diagram Pics\C\Mode\C Iolian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ab", "Ab", "{19FA712C-2D2E-4CED-AD85-106B685B812C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{82DF54CB-D884-477B-AAD6-FEF3DDD39BDC}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab Melodic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\Ab or G# Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\G# or Ab Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\G# or Ab Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\G# or Ab Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\G# or Ab Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\G# or Ab Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\G# or Ab Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\G# or Ab Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Scale\G# or Ab Spanish.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{C3B8A6C4-F81C-469A-8B1B-E4AB77C768AD}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\Ab Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\Ab Ionian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\Ab or G# Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\Ab or G# Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\Ab or G# Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\Ab or G# Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\Ab or G# Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\Ab or G# Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\G# or Ab Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\G# or Ab Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\G# or Ab Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\G# or Ab Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\G# or Ab Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\Ab\Mode\G# or Ab Phrygian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B", "B", "{22C39A4E-7B65-4E58-9956-77ADD0C0C3F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{ACA34FD7-2507-4156-907B-77F9748E8322}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Hormonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Hormonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Japanese(Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Japanese(Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Japanese(Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Japanese(Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Minor Bobop.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Minor Bobop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also A## or Cb) Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also Cb or A##) Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B (also Cb or A##) Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Scale\B Melodic Minor.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{4C50ECB5-1CAB-4A8C-A620-BC30521D3E4E}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B (also A## or Cb) Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B Ionian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\B\Mode\B Locrian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bb", "Bb", "{0AB185AF-90DD-4F3B-BEE9-AA446332A2EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{A9DE5F93-053F-4A62-A4B0-31FD9B9F3B16}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb Melodic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Scale\Bb or A# Spanish.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{9E892898-754D-4AD9-81D7-925B2C3CB67D}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\A# or Bb Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\A# or Bb Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb Ionian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\Bb\Mode\Bb or A# Phrygian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D", "D", "{B13A1736-BF7F-4FDD-B9DF-E944FC20A25C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{11B86D87-4560-444E-8BB3-05334F4EF72A}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D (also C## or Ebb) Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Scale\D Melodic Minor.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{88160E33-8249-47E0-BDB5-CC48323ABF1C}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D (also C## or Ebb) Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\D\Mode\D Ionian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Db", "Db", "{D9A654BC-FE39-43BE-82D4-03C5E9B95127}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{7D134D2F-79E0-4588-8B20-0DFFD80197A4}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\C# or Db Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db Melodic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db or C# Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db or C# Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db or C# Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db or C# Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db or C# Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Scale\Db or C# Pentatonic Major.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{20A3D786-939D-464A-AE60-14DF0C3C4479}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\C# or Db Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\C# or Db Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\C# or Db Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\C# or Db Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\C# or Db Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\C# or Db Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\C# or Db Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\C# or Db Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\Db Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\Db Ionian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\Db or C# Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\Db or C# Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\Db or C# Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Db\Mode\Db or C# Mixolydian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "E", "E", "{92274393-6F5F-40D9-AC92-61CA23E43A0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{7038B535-2883-4B4A-93F7-AF60DB255ECE}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also D## or Fb) Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also Fb or D##) Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E (also Fb or D##) Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E Melodic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Scale\E Spanish.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{A537C6E4-E895-41B6-9458-63C942134712}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also D## or Fb) Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also D## or Fb) Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also D## or Fb) Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also D## or Fb) Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also Fb or D##) Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also Fb or D##) Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also Fb or D##) Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also Fb or D##) Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also Fb or D##) Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E (also Fb or D##) Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E Ionian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\E\Mode\E Phrygian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "F", "F", "{DB49421A-B544-4327-B7F7-B035BF22D67D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{5C8C726C-F856-4ED2-8E4D-F408A2370AB5}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F (also E# or Gbb) Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Scale\F Melodic Minor.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{3EA29B30-891F-4279-8008-F12F808343A4}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F (also E# or Gbb) Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F Iolian.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F Iolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\F\Mode\F Lydian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eb", "Eb", "{93A39AEB-A1CB-4DCB-8720-CB3C1EF02932}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{B1A5BFDE-3F13-4ECA-B3A7-BB66E4EB694E}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\D# or Eb Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\D# or Eb Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb Melodic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Scale\Eb or D# Pentatonic Minor.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{D48C1432-7691-40C2-A92D-5F7A13F1A3E5}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\D# or Eb Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\D# or Eb Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\D# or Eb Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\D# or Eb Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb Ionian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb or D# Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb or D# Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb or D# Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb or D# Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb or D# Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb or D# Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb or D# Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Eb\Mode\Eb or D# Mixolydian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "G", "G", "{BA0CE3D1-9721-45A0-B4B8-5D6E8AA59268}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gb", "Gb", "{81C7AC68-F1FC-4955-803A-71A0E0E264F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{E6653D63-EC8E-4FAB-8468-E7ADA9A75D2D}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Pentatonic Major.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G (also F## or Abb) Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Scale\G Melodic Minor.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{E22F56FA-D86A-40EC-BAAD-2FED5D1B78E3}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also Abb or F##) Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also Abb or F##) Lydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also F## or Abb) Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also F## or Abb) Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also F## or Abb) Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also F## or Abb) Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also F## or Abb) Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also F## or Abb) Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also F## or Abb) Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G (also F## or Abb) Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G Ionian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\G\Mode\G Mixolydian.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scale", "Scale", "{00843158-9A4F-4AA5-BA3C-7C614FCFDC4C}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Blues.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Blues.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Dominent Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Dominent Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Harmonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Harmonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Japanese (Hirajoshi).png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Japanese (Hirajoshi).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Japanese (Sen).png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Japanese (Sen).png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Minor Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Minor Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Natural Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Natural Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Pentatonic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Pentatonic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Spanish.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\F# or Gb Spanish.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\Gb Major Scale.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\Gb Major Scale.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\Gb Melodic Minor.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\Gb Melodic Minor.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\Gb or F# Major Bebop.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\Gb or F# Major Bebop.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\Gb or F# Pentatonic Major.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Scale\Gb or F# Pentatonic Major.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mode", "Mode", "{37886EBF-9D1C-472F-91F4-6D40A86E05BF}"
+	ProjectSection(SolutionItems) = preProject
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Aeolian.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Aeolian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Dorian.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Dorian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Locrian.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Locrian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Mixolydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Mixolydian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Phrygian.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\F# or Gb Phrygian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\Gb Ionian.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\Gb Ionian.png
+		Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\Gb or F# Lydian.png = Document_view_for_musicTheory\Neck Diagram Pics\Gb\Mode\Gb or F# Lydian.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E039B0-6D8A-412B-AE04-DA7BC8B7F60C}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{58E039B0-6D8A-412B-AE04-DA7BC8B7F60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E039B0-6D8A-412B-AE04-DA7BC8B7F60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E039B0-6D8A-412B-AE04-DA7BC8B7F60C}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E039B0-6D8A-412B-AE04-DA7BC8B7F60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E039B0-6D8A-412B-AE04-DA7BC8B7F60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E039B0-6D8A-412B-AE04-DA7BC8B7F60C}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{EF408AA6-EB16-4D47-8B75-357D598E4C28}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{018358D0-2B07-4D9A-B7BA-712C84B6FD30}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E93AA29B-6B12-4567-8259-F772749F6C08} = {E6266FE2-EDD2-44F2-93F9-4C13C8A5DF2D}
+		{1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A} = {E6266FE2-EDD2-44F2-93F9-4C13C8A5DF2D}
+		{7C89173A-296B-4550-A65F-0CE3ABC37FEC} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{03E90687-3682-47DE-B521-AB045318626B} = {7C89173A-296B-4550-A65F-0CE3ABC37FEC}
+		{B2D7EBFC-D3B7-458B-8EED-29331CE1AAA2} = {7C89173A-296B-4550-A65F-0CE3ABC37FEC}
+		{518E5D97-9C86-4C4E-AF34-CCF5F35BD3F9} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{133D2D9D-1033-4744-9D97-3505D0F2DDEB} = {518E5D97-9C86-4C4E-AF34-CCF5F35BD3F9}
+		{C17661BB-2E9A-4CFF-85CD-45C0771D5AB7} = {518E5D97-9C86-4C4E-AF34-CCF5F35BD3F9}
+		{19FA712C-2D2E-4CED-AD85-106B685B812C} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{82DF54CB-D884-477B-AAD6-FEF3DDD39BDC} = {19FA712C-2D2E-4CED-AD85-106B685B812C}
+		{C3B8A6C4-F81C-469A-8B1B-E4AB77C768AD} = {19FA712C-2D2E-4CED-AD85-106B685B812C}
+		{22C39A4E-7B65-4E58-9956-77ADD0C0C3F2} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{ACA34FD7-2507-4156-907B-77F9748E8322} = {22C39A4E-7B65-4E58-9956-77ADD0C0C3F2}
+		{4C50ECB5-1CAB-4A8C-A620-BC30521D3E4E} = {22C39A4E-7B65-4E58-9956-77ADD0C0C3F2}
+		{0AB185AF-90DD-4F3B-BEE9-AA446332A2EA} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{A9DE5F93-053F-4A62-A4B0-31FD9B9F3B16} = {0AB185AF-90DD-4F3B-BEE9-AA446332A2EA}
+		{9E892898-754D-4AD9-81D7-925B2C3CB67D} = {0AB185AF-90DD-4F3B-BEE9-AA446332A2EA}
+		{B13A1736-BF7F-4FDD-B9DF-E944FC20A25C} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{11B86D87-4560-444E-8BB3-05334F4EF72A} = {B13A1736-BF7F-4FDD-B9DF-E944FC20A25C}
+		{88160E33-8249-47E0-BDB5-CC48323ABF1C} = {B13A1736-BF7F-4FDD-B9DF-E944FC20A25C}
+		{D9A654BC-FE39-43BE-82D4-03C5E9B95127} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{7D134D2F-79E0-4588-8B20-0DFFD80197A4} = {D9A654BC-FE39-43BE-82D4-03C5E9B95127}
+		{20A3D786-939D-464A-AE60-14DF0C3C4479} = {D9A654BC-FE39-43BE-82D4-03C5E9B95127}
+		{92274393-6F5F-40D9-AC92-61CA23E43A0A} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{7038B535-2883-4B4A-93F7-AF60DB255ECE} = {92274393-6F5F-40D9-AC92-61CA23E43A0A}
+		{A537C6E4-E895-41B6-9458-63C942134712} = {92274393-6F5F-40D9-AC92-61CA23E43A0A}
+		{DB49421A-B544-4327-B7F7-B035BF22D67D} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{5C8C726C-F856-4ED2-8E4D-F408A2370AB5} = {DB49421A-B544-4327-B7F7-B035BF22D67D}
+		{3EA29B30-891F-4279-8008-F12F808343A4} = {DB49421A-B544-4327-B7F7-B035BF22D67D}
+		{93A39AEB-A1CB-4DCB-8720-CB3C1EF02932} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{B1A5BFDE-3F13-4ECA-B3A7-BB66E4EB694E} = {93A39AEB-A1CB-4DCB-8720-CB3C1EF02932}
+		{D48C1432-7691-40C2-A92D-5F7A13F1A3E5} = {93A39AEB-A1CB-4DCB-8720-CB3C1EF02932}
+		{BA0CE3D1-9721-45A0-B4B8-5D6E8AA59268} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{81C7AC68-F1FC-4955-803A-71A0E0E264F4} = {1AF2A6B3-1F1F-4BB0-B00A-7E1A8949E86A}
+		{E6653D63-EC8E-4FAB-8468-E7ADA9A75D2D} = {BA0CE3D1-9721-45A0-B4B8-5D6E8AA59268}
+		{E22F56FA-D86A-40EC-BAAD-2FED5D1B78E3} = {BA0CE3D1-9721-45A0-B4B8-5D6E8AA59268}
+		{00843158-9A4F-4AA5-BA3C-7C614FCFDC4C} = {81C7AC68-F1FC-4955-803A-71A0E0E264F4}
+		{37886EBF-9D1C-472F-91F4-6D40A86E05BF} = {81C7AC68-F1FC-4955-803A-71A0E0E264F4}
+	EndGlobalSection
+EndGlobal

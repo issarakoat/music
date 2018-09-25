@@ -1,0 +1,42 @@
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\bin\Debug\Document_view_for_musicTheory.exe.config
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\bin\Debug\Document_view_for_musicTheory.exe
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\bin\Debug\Document_view_for_musicTheory.pdb
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\bin\Debug\MusicTheoryZZ.dll
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\bin\Debug\MusicTheoryZZ.pdb
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\bin\Debug\Interop.WMPLib.dll
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Jam Application.csprojResolveAssemblyReference.cache
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Interop.WMPLib.dll
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Jam Application.csproj.ResolveComReference.cache
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.DiagramChord.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.DiagramMode.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.DiagramScale.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.Jam.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.Properties.Resources.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.Songs_Documentary.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Jam Application.csproj.GenerateResource.Cache
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.exe
+C:\Users\tom\Documents\Visual Studio 2017\Projects\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.pdb
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\bin\Debug\Document_view_for_musicTheory.exe.config
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\bin\Debug\Document_view_for_musicTheory.exe
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\bin\Debug\Document_view_for_musicTheory.pdb
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\bin\Debug\MusicTheoryZZ.dll
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\bin\Debug\MusicTheoryZZ.pdb
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\bin\Debug\Interop.WMPLib.dll
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Jam Application.csprojResolveAssemblyReference.cache
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Interop.WMPLib.dll
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Jam Application.csproj.ResolveComReference.cache
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.DiagramChord.resources
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.DiagramMode.resources
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.DiagramScale.resources
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.Jam.resources
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.Properties.Resources.resources
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.Songs_Documentary.resources
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Jam Application.csproj.GenerateResource.cache
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Jam Application.csproj.CoreCompileInputs.cache
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Jam Application.csproj.CopyComplete
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.exe
+C:\Users\tom\Dropbox\Music\Document_view_for_musicTheory\obj\Debug\Document_view_for_musicTheory.pdb
