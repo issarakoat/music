@@ -1,4 +1,4 @@
-This program currently not working occur to the size of the file. I'm working on it!! sorry about that
+This program currently not working occur to the size of the file. Please let me know if interested in this program
 # music
 teaching music program
 This program will help you learn how to improvise on music instruments
