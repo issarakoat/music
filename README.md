@@ -1,5 +1,6 @@
-This program currently not working 100% occur to the size of the file(I can't push to the origin). Please let me know if interested in this program, I can send the installer upond request.
-contact : weeravut.issarakoat@gmail.com
+This program currently not working 100% occur to the size of the file(I can't push to the origin). You can download the installer by go to this web https://drive.google.com/file/d/1_zuSMiuuu40PDbXnxaVjoQv5ixmwYzw2/view?usp=sharing
+
+note: This is only for Windows
 # music
 teaching music program
 This program will help you learn how to improvise on music instruments.
